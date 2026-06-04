@@ -3,7 +3,7 @@
 **Data Analytics Professional | Business Intelligence | Forecasting | Generative AI**
 
 MS in Business Analytics & Data Science @ Oklahoma State University (May 2026, GPA 3.93)
-📍 Dallas, TX &nbsp;|&nbsp; 📧 preethika.chidara@okstate.edu &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/preethikachidara)
+📍 Dallas, TX &nbsp;|&nbsp; 📧 preethika.chidara25@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/preethikachidara)
 
 ---
 
