@@ -5,7 +5,7 @@
 <!-- PROFILE PICTURE: Replace the URL below with your own image link -->
 <!-- To add your photo: Upload it to your GitHub repo and use the raw link -->
 <!-- Example: <img src="https://github.com/preethikachidara/preethikachidara/raw/main/profile.jpg" /> -->
-<img src="https://github.com/preethikachidara25/preethikachidara/blob/main/DSC05201.JPG" width="120" style="border-radius:50%; border: 3px solid #58a6ff;" />
+<img src="https://github.com/preethikachidara25/preethikachidara/blob/main/profile.jpg" width="120" style="border-radius:50%; border: 3px solid #58a6ff;" />
 
 <h2 style="color:#e6edf3">Preethika Chidara</h2>
 
