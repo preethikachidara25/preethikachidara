@@ -35,6 +35,7 @@ MS in Business Analytics & Data Science — **Oklahoma State University** · GPA
 | [LLM Commercial Video Reliability](./llm-commercial-video-reliability) | ACM-published — evaluated Google Gemini reliability across 95 ad variables on 620 Super Bowl commercials | Python · Gemini · NLP |
 | [Staffing Demand Forecasting](./staffing-demand-forecasting) | 6-month workforce forecasting tool — prevented ~$100K/month in contractor losses at Citi with <5% error | Python · Pandas · SQL |
 | [Customer Service BI Dashboard](./customer-service-bi-dashboard) | Tableau KPI suite for Citi's 500+ agent operation — reduced ad-hoc reporting by 30% | Tableau · SQL · Teradata |
+| [Credit Card Fraud Detection Model](./credit-card-fraud-detection) | Logistic regression model catching 76% of fraud in top decile (KS 0.54), saving ~$31K/month | Python · SQL · Scikit-learn |
 | [Freight Analytics Data Warehouse](./freight-analytics-data-warehouse) | Star-schema DW + driver KPI framework for Groendyke Transport (5+ integrated datasets) | SQL · Python · ETL |
 
 ---
